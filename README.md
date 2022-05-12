@@ -2,6 +2,8 @@
 ## House Rent Prediction Chennai
 Web app Link for the project --> https://hrpavan.herokuapp.com/
 
+IPYNB link --> 
+
 Dataset link --> https://github.com/WhiteWolf088/Data_Sets/blob/main/Chennai_rent.csv
 
 ### DataSet
@@ -11,4 +13,10 @@ Dataset link --> https://github.com/WhiteWolf088/Data_Sets/blob/main/Chennai_ren
 
 ### Login page 
 ![image](https://user-images.githubusercontent.com/89171972/164000552-a65260f0-1ba9-4847-a35b-a57851946ce6.png)
+
+
+
+### Upcoming Changes 
+![image](https://user-images.githubusercontent.com/89171972/168132508-786fce19-4534-482e-bc89-8890b92e39cf.png)
+
 
