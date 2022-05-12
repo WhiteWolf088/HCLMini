@@ -2,7 +2,7 @@
 ## House Rent Prediction Chennai
 Web app Link for the project --> https://hrpavan.herokuapp.com/
 
-IPYNB link --> 
+IPYNB link --> https://colab.research.google.com/drive/1gPQjK0XKNZbg9i9y4k1C_AxmhiY7S_hJ?usp=sharing
 
 Dataset link --> https://github.com/WhiteWolf088/Data_Sets/blob/main/Chennai_rent.csv
 
